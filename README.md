@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/images/logo_full.png" width="500" alt="Datos vs COVID"><br>
+<img src="assets/images/full_logo.png" width="500" alt="Datos vs COVID"><br>
 <a href="https://datosvscovid.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-DatosvsCOVID-00D88E.svg"></a>
 <a href="http://datosvscovid.slack.com/" target="_blank"><img src="https://img.shields.io/badge/slack-DatosvsCOVID-EC0E4F.svg"></a>
 </p>
