@@ -1,11 +1,11 @@
 # Site
-name: 'Eventos globales'
-description: 'Mapeo de eventos a nivel global sobre tecnología cívica y datos abiertos.'
+name: 'Datos vs COVID'
+description: 'Pagina web de la iniciativa Datos vs COVID'
 logo: 'assets/images/logo.png'
-logo_full: 'assets/images/codeandomexico.png'
+logo_full: 'assets/images/full_logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/eventos-globales'
-email: 'equipo@codeandomexico.org'
+baseurl: '/'
+email: ''
 
 include: ["_pages"]
 permalink: /:title/
