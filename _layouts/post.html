@@ -9,7 +9,7 @@ layout: default
     			<article class="card">
                     
                 {% if page.image %} 
-                    <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ absolute_url }}../assets/events/{{ page.image }}{% endif %}" alt="{{ page.title }}"> 
+                    <img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ absolute_url }}../assets/proyectos/{{ page.image }}{% endif %}" alt="{{ page.title }}"> 
                 {% endif %}
                     
     			<div class="card-body">
